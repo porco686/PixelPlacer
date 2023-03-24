@@ -1,17 +1,17 @@
- 1 - How To Use: 
-  Drag Image 🖼️ To Current Directory 📂.
-  Open Terminal Into Current Directory.
-  Write "npm i" And Enter.
-  Write "node ." And Enter.
+ **1 - How To Use:** 
+  Drag Image 🖼️ To Current __Directory__ 📂.
+  Open __Terminal__ Into Current __Directory__.
+  Write __"npm i"__ And Enter.
+  Write __"node ."__ And Enter.
   Choose The Image You Dragged (Use Up/Down Arrows) And Enter.
-  Choose Scale To Scale Up or Down The Image, A Postive Number Is Up and Negative Number Is Down. 
-  Write OutPut Name That The OutPut Will Be Written In ⌨️.
-  Wait For Image Formatting/Processing/Reading/ColorDetecting/Transpiling/Mapping.
-  Done. Have Fun With The Image! 🎉🎉.
+  Choose Scale To Scale __Up__or __Down__ The Image, A Postive Number Is __Up__ and Negative Number Is __Down__. 
+  Write __OutPut Name__ That The __OutPut__ Will Be Written In ⌨️.
+  Wait For Image __Formatting/Processing/Reading/ColorDetecting/Transpiling/Mapping__.
+  Done. Have Fun With The __Image__! 🎉🎉.
 
 
- 2 - How To Configure:
-  Open PixelPlacerConfig.JSON with NotePad. 
+ **2 - How To Configure**:
+  Open __PixelPlacerConfig.JSON__ with NotePad. 
   Replace Values That You Want To Reconfigure.
   Make Sure To Leave The Colon(:) As It Is And The Quotation Marks(") As Is, Otherwise It Will Break.
   Save Changes(Control + S).
