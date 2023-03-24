@@ -1,0 +1,37 @@
+{
+  "dependencies": {
+    "@drovp/upscale": "^4.0.1",
+    "adm-zip": "^0.5.10",
+    "chalk": "^3.0.0",
+    "chalk-rainbow": "^1.0.0",
+    "color-detector": "^1.0.3",
+    "color-difference": "^0.3.4",
+    "color-to-name": "^1.1.0",
+    "extract-colors": "^2.0.0",
+    "figlet": "^1.5.2",
+    "file-zip": "^1.0.1",
+    "get-image-colors": "^4.0.1",
+    "get-pixels": "^3.3.3",
+    "hex-to-color-name": "^1.0.1",
+    "hex-to-hsl": "^1.0.2",
+    "image-resize": "^1.0.1",
+    "image-size": "^1.0.2",
+    "inquirer": "^8.2.3",
+    "jimp": "^0.22.7",
+    "jszip": "^3.10.1",
+    "loadash": "^1.0.0",
+    "loading-cli": "^1.1.0",
+    "lodash": "^4.17.21",
+    "nexe": "^4.0.0-rc.2",
+    "open": "^8.0.0",
+    "pkg": "^5.8.1",
+    "rgb-hex": "^3.0.0",
+    "rgb-to-hsl": "^0.0.3",
+    "sourcebin": "^5.0.0",
+    "zip-a-folder": "^1.1.5"
+  },
+  "scripts": {
+    "main": "node .",
+    "build": "node versions-builder"
+  }
+}

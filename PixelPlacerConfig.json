@@ -1,0 +1,28 @@
+{
+    
+    "color-pallet": {
+        "red": "🟥",
+        "orange": "🟧",
+        "yellow": "🟨",
+        "yellowishGreen": "🟨",
+        "brightGreen": "🟩",
+        "green": "🟩",
+        "limeGreen": "🟩",
+        "aquaticGreen": "🟩",
+        "greenishCyan": "🟩",
+        "cyan": "🟦",
+        "lightBlue": "🟦",
+        "blue": "🟦",
+        "darkBlue": "🟦",
+        "purple": "🟪",
+        "brightPurple": "🟪",
+        "pink": "🟪",
+        "redishPink": "🟪",
+        "pinkishRed": "🟥",
+        "white": "⬜",
+        "black": "⬛"
+    },
+    "build-type": "pre-build",
+    "timeout": "5min",
+    "auto-close": true
+}

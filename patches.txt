@@ -1,0 +1,25 @@
+PATCHES: 
+
+[0.0.1]: Base Version
+
+[0.0.2]: 
+ +  Better Color Detection with @saturatebrains/owl-detection
+ +  Better Color Pallet
+ +  Patches.txt
+ +  Custom Scaling
+ +  Option for auto close
+ +  Better Console
+
+[UNRELEASED 0.0.3]:
+ +  3 Color Detection Options
+ +  Thread Of Events
+ +  Better Optimizations
+ +  Wider Color Detection & Pallet
+ +  Option For Auto Paste
+ 
+[UNRELEASED 0.0.4]: 
+ +  Multiple Image Selection 
+ +  Image Upscaling Before Processing
+
+
+ 
